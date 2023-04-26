@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1665981452 source:c:\users\fabio\onedrive\documentos\bow valley\sodv1101 - programming fundamentals\guessing game\guessing game\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+	<cctype>
+	<conio.h>
+
+1665978504 source:c:\users\fabio\onedrive\documentos\bow valley\fall 2022\sodv1101 - programming fundamentals\codes\guessing game\guessing game\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
